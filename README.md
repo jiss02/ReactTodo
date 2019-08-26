@@ -1,3 +1,7 @@
+# React to do
+
+**리액트로 처음만든 To do 앱입니다.**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
