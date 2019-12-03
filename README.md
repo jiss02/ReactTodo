@@ -1,6 +1,6 @@
-# React to do
+# :white_check_mark: React to do
 
-**리액트로 처음만든 To do 앱입니다.**
+**리액트로 개발한 간단한 TODO 앱 입니다.**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
